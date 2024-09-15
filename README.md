@@ -1,2 +1,2 @@
-# flappy-bird-project
+# "Flappy Bird Game Clone – Java Implementation"
 this is a game using java 
