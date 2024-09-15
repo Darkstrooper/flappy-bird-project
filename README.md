@@ -1,2 +1,2 @@
 # "Flappy Bird Game Clone – Java Implementation"
-this is a game using java 
+Developed a clone of the popular "Flappy Bird" game using Java, featuring object-oriented programming principles and graphical user interface (GUI) components.
